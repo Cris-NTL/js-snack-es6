@@ -2,7 +2,7 @@
 // [x] Nome sarà l’unica proprietà da compilare, le altre saranno tutte settate a 0.
 // [x] Generare numeri random al posto degli 0 nelle proprietà:
 // [x] Punti fatti e falli subiti.
-// [] Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengono solo nomi e falli subiti e stampiamo tutto in console.
+// [x] Infine usando la destrutturazione creiamo un nuovo array i cui elementi contengono solo nomi e falli subiti e stampiamo tutto in console.
 
 // ******************************************************************************************************************************* //
 
